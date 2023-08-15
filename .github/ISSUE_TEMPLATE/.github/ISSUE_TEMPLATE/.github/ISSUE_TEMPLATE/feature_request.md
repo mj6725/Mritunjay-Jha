@@ -1,4 +1,3 @@
-@@ -0,0 +1,17 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
